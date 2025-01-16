@@ -6,8 +6,8 @@ bodyClass: page-service
 banner_extra: true
 description: "We are dedicated to developing security solutions specifically tailored to the customer’s business objectives, resources, and overall mission. Our methodologies have been developed over 20+ years as the founding partners secured some of the nation's most sensitive systems.
 "
-cta_btn1_url: "#"
-cta_btn2_url: "#"
+cta_btn1_url: "#about_section"
+cta_btn2_url: "/contact/"
 ---
 
 {% include services.html %}
